@@ -1,9 +1,9 @@
 # Todo app
 
-<br>A basic todo app that allows user to store ToDos and delete them.</br>
-<br>It also allows user to mark which task has been completed.</br>
-<br>It uses SQFLite to store user information.</br>
+A basic todo app that allows the user to store ToDos and delete them.  
+It also allows the user to mark which task has been completed.  
+It uses SQFLite to store user information.
 
 # Developed By:
-<br>Zuhayer Tajbid</br>
-<br>RUET CSE-22</br>
+Zuhayer Tajbid  
+RUET CSE-22
