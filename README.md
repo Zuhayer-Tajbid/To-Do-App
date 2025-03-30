@@ -1,16 +1,9 @@
-# todo
+# Todo app
 
-A new Flutter project.
+<br>A basic todo app that allows user to store ToDos and delete them.</br>
+<br>It also allows user to mark which task has been completed.</br>
+<br>It uses SQFLite to store user information.</br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Developed By:
+<br>Zuhayer Tajbid</br>
+<br>RUET CSE-22</br>
