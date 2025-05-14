@@ -1,9 +1,21 @@
-# Todo app
+# ✅ Flutter To-Do App
 
-A basic todo app that allows the user to store ToDos and delete them.  
-It also allows the user to mark which task has been completed.  
-It uses SQFLite to store user information.
+A simple and elegant To-Do app built with **Flutter**, using **Sqflite** for persistent local storage.  
+You can **add**, **delete**, and **mark tasks as completed** with a clean, intuitive interface.
 
-# Developed By:
-Zuhayer Tajbid  
-RUET CSE-22
+---
+
+## ✨ Features
+
+- ➕ Add new to-do items
+- ✅ Mark tasks as completed (adds strikethrough to the text)
+- 🗑️ Delete tasks
+- 💾 Persistent local storage using **Sqflite**
+
+---
+
+## 🖼️ Screenshot
+
+<img src="screenshots/home.jpg" width="400px" alt="To-Do App Screenshot">
+
+---
