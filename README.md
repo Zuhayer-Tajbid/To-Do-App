@@ -19,3 +19,11 @@ You can **add**, **delete**, and **mark tasks as completed** with a clean, intui
 <img src="screenshots/home.jpg" width="400px" alt="To-Do App Screenshot">
 
 ---
+
+
+
+## 📱 Download APK
+
+👉 [Download the latest APK](https://github.com/Zuhayer-Tajbid/To-Do-App/releases/tag/v1.0.0)
+
+--- 
